@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Razor Pay.iml" filepath="$PROJECT_DIR$/.idea/Razor Pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Razor pay demo.iml" filepath="$PROJECT_DIR$/Razor pay demo.iml" group="Razor pay demo" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Razor pay demo/app" />
+    </modules>
+  </component>
+</project>
